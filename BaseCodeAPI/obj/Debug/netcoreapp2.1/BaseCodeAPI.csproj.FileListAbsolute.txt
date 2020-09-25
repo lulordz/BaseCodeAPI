@@ -1,0 +1,11 @@
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.1\BaseCodeAPI.deps.json
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.1\BaseCodeAPI.runtimeconfig.json
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.1\BaseCodeAPI.runtimeconfig.dev.json
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.1\BaseCodeAPI.dll
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.csprojAssemblyReference.cache
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.csproj.CoreCompileInputs.cache
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.RazorAssemblyInfo.cache
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.RazorAssemblyInfo.cs
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.AssemblyInfoInputs.cache
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.AssemblyInfo.cs
+C:\Users\kgeverola\Documents\Projects\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.1\BaseCodeAPI.RazorTargetAssemblyInfo.cache

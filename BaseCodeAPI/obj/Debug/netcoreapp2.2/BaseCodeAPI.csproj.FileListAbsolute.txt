@@ -1,0 +1,13 @@
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.2\BaseCodeAPI.deps.json
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.2\BaseCodeAPI.runtimeconfig.json
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.2\BaseCodeAPI.runtimeconfig.dev.json
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.2\BaseCodeAPI.dll
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\bin\Debug\netcoreapp2.2\BaseCodeAPI.pdb
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.csproj.CoreCompileInputs.cache
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.RazorAssemblyInfo.cache
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.RazorAssemblyInfo.cs
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.AssemblyInfoInputs.cache
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.AssemblyInfo.cs
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.dll
+C:\Users\brent\Desktop\Practice\BaseCodeAPI\BaseCodeAPI\obj\Debug\netcoreapp2.2\BaseCodeAPI.pdb
